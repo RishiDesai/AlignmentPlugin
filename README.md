@@ -2,6 +2,7 @@
 VISNAB: Visualization of Network Alignments using BioFabric
 
 ![VISNAB Example Picture](https://github.com/RishiDesai/AlignmentPlugin/blob/master/website/NAVP/images/VISNAB%20Example%20Picture.png)
+Image: Mus Musculus (4370 nodes, 9116 edges) aligned to Arabidopsis Thaliana (5897 nodes, 13381 edges)
 
 ### Overview
 
