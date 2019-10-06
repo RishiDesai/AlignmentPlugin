@@ -1,6 +1,8 @@
 # AlignmentPlugin
 VISNAB: Visualization of Network Alignments using BioFabric
 
+![VISNAB Example Picture](https://github.com/RishiDesai/AlignmentPlugin/blob/master/website/NAVP/images/VISNAB%20Example%20Picture.png)
+
 ### Overview
 
 __VISNAB__ is a BioFabric plugin that allows you to visualize network alignments.
